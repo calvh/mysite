@@ -1,0 +1,19 @@
+body {
+  padding: 10%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  color: red;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.paragraph {
+  color: blue;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#p3 {
+  color: green;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
